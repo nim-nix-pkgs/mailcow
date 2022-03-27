@@ -11,6 +11,7 @@
   inputs.src-mailcow-main.ref   = "refs/heads/main";
   inputs.src-mailcow-main.owner = "Vaipex";
   inputs.src-mailcow-main.repo  = "Mailcow-API";
+  inputs.src-mailcow-main.dir   = "";
   inputs.src-mailcow-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
