@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1653689882,
-        "narHash": "sha256-ZYbZw+CMw24rf5Hjh+9VL2OMeUcYoUlJnPgCckTwUJA=",
+        "lastModified": 1653696484,
+        "narHash": "sha256-dMJmVl3xuDWQdFl7EMqkUQWZioJQHO3R5xEy59DRtY8=",
         "owner": "nim-nix-pkgs",
         "repo": "mailcow",
-        "rev": "94f7795ec043f0eb7f0d86af371d782712f9e887",
+        "rev": "ec6efe69cac7549662b2163f48f9dc8c7a0aa86f",
         "type": "github"
       },
       "original": {
